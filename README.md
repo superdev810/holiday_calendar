@@ -1,8 +1,3 @@
-node-scheduler-demo
-===================
-
-Demo of dhtmlxScheduler with NodeJs + MongoDB as backend
-
 ### How to start
 
 To run the app, do the next after cloning the repo
